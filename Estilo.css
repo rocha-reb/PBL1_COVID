@@ -1,0 +1,7 @@
+body{background-color: rgb(240, 235, 248); font-family: Calibri;}
+#cabecalho{border-bottom: seagreen 10px double; text-align:center; font-size: 45px; padding: 2px;}
+#links{border-bottom: seagreen 5px solid; text-align: center; font-size: 20px; padding-top: 5px; padding-bottom: 5px;}
+#rodape{border-top: seagreen 3px solid; text-align: center; font-size: 15px; padding: 2px;}
+#tabelanoticias{padding: 10px;text-align: center; height: 1300px;}
+#tabelasobre{text-align: justify; width: 95%;}
+#contato{text-align: center;}
