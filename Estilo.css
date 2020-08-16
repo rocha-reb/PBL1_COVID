@@ -1,13 +1,16 @@
 body{background-color: whitesmoke; font-family: segoe ui;}
-#cabecalho{background-color: seagreen; text-align:left; color: whitesmoke; font-size: 45px; padding-left: 10px;}
+#cabecalho{background-color: seagreen; text-align:center; color: whitesmoke; font-size: 45px; padding-left: 10px;}
 #links{border-bottom: seagreen 5px solid; text-align: center; font-size: 20px; padding-top: 5px; padding-bottom: 5px;}
 #rodape{border-top: seagreen 3px solid; text-align: center; font-size: 15px; padding-top: 2px;}
 #tabelanoticias{padding: 10px;text-align: center; height: 1300px;}
 #contato{text-align: center;}
 #sobre{padding-bottom: 60px; padding: 20px;}
+#noticias {display: flex; flex-wrap: wrap; margin:5% ; align-content: center; justify-content: space-between;}
 #link1:hover {background-color: seagreen;}
 #link2:hover {background-color: seagreen;}
 #link3:hover {background-color: seagreen;}
 #link4:hover {background-color: seagreen;}
 #link5:hover {background-color: seagreen;}
 #link6:hover {background-color: seagreen;}
+.textolink {text-align: center; font-size: 18px; color: whitesmoke;}
+a{ color: seagreen; text-decoration: unset;}
